@@ -1,0 +1,5 @@
+# paths to executables
+formatdb=/home/jmalves/bin/blast-2.2.24/bin/formatdb
+blastall=/home/jmalves/bin/blast-2.2.24/bin/blastall
+#other parameters
+ncpus=20
